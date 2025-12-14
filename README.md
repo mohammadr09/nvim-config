@@ -4,6 +4,7 @@ A simple, but intuitive, Neovim Configuration setup built from the ground up usi
 
 **Configured By:** <a href="https://github.com/mohrammadr09">Mohammad</a>
 
+*Note:* still a work in progress
 <hr />
 
 # Installation & Using my Configuration
